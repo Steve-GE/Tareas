@@ -9,6 +9,7 @@ export const saludar = (nombre = 'sin nombre') => {
 
     document.body.append(h1);
 
+    //
     // console.log(webpacklogo);
     // const img = document.createElement('img');
     // img.src = webpacklogo;
